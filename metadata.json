@@ -1,0 +1,5 @@
+{
+  "name": "Iffi Virtual PC",
+  "description": "A fully functional PC simulator with realistic CPU execution, memory visualization, and backend logic. Developed by Iftikhar Ali.",
+  "requestFramePermissions": []
+}
